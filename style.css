@@ -1,7 +1,9 @@
 h1{
     color: aqua;
-    text-align: centerf;
+    text-align: center;
+    padding: 50%;
 }
 h3{
     color: blue;
+    padding: 60%;
 }
